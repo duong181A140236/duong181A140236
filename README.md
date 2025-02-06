@@ -1,16 +1,30 @@
-## Hi there 👋
+# Trương Thị Thùy Dương 👨💻
 
-<!--
-**duong181A140236/duong181A140236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kỹ sư | Cử nhân Kỹ Thuật - Công Nghệ**  
+*"Thành nhân trước khi thành danh"*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Giới Thiệu
+Xin chào! Tôi là **Trương Thị Thùy Dương**, một cựu sinh viên tốt nghiệp chuyên ngành **Kỹ Thuật - Công Nghệ** tại **Trường Đại Học Văn Hiến**. Tôi đam mê công nghệ, sáng tạo và luôn tìm kiếm cơ hội để ứng dụng kiến thức vào thực tiễn.
+
+---
+
+### 🎓 Học Vấn
+- **Trường Đại Học Văn Hiến**  
+  - **Khoa**: Kỹ Thuật - Công Nghệ  
+  - **Khóa học**: 2018  
+  - **MSSV**: 181A010138  
+  - **Hình thức đào tạo**: Chính quy  
+
+---
+
+### 🛠 Kỹ Năng (Work in Progress)
+| Lĩnh vực         | Công nghệ/Tools                               |
+|------------------|-----------------------------------------------|
+| Lập trình        | Python, C++, Java                             |
+| Phát triển Web   | HTML/CSS, JavaScript                          |
+| Cơ sở dữ liệu    | SQL, MySQL                                    |
+| Kỹ thuật         | AutoCAD, MATLAB                               |
+
+---
